@@ -1,0 +1,1 @@
+transpilePackages: ['three']
